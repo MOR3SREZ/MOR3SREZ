@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Morteza Rezaeian
 - 👀 I’m interested in WebDevelopment, Game and anything else that related to the computer
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working at sheypoor
 - 📫 How to reach me 
 
 my Linkedin: https://www.linkedin.com/in/morteza-rezaeian-97629b226
